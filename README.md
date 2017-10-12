@@ -1,2 +1,2 @@
 # rvt_slog_parser
-a basic rvt slog parser
+Basic python helper to retrieve information from Revit sync log (slog).
